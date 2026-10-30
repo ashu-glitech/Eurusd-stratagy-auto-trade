@@ -1,0 +1,9 @@
+*.parquet
+__pycache__/
+.env
+.DS_Store
+*.zip
+*.gz
+*.csv
+kaggle.json
+logs/
